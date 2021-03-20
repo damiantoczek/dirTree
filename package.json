@@ -1,14 +1,11 @@
 {
-  "name": "dirtree",
+  "name": "dirtreejs",
   "version": "0.0.1",
   "description": "Creates a tree, folder list and file list",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js"
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damiantoczek/dirTree.git"
+    "url": "git+https://github.com/damiantoczek/dirTreejs.git"
   },
   "keywords": [
     "directory",
@@ -19,7 +16,7 @@
   "author": "Damian Toczek",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/damiantoczek/dirTree/issues"
+    "url": "https://github.com/damiantoczek/dirTreejs/issues"
   },
-  "homepage": "https://github.com/damiantoczek/dirTree#readme"
+  "homepage": "https://github.com/damiantoczek/dirTreejs#readme"
 }
